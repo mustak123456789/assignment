@@ -43,3 +43,16 @@ background-color:#D6DDED;border-radius: 50px;}
 .u{font-size: 38px;color: #4E47FF;}
 .to{font-size: 80px;color: #4E47FF;}
 .me{font-size: 20px;color: darkgray;}
+
+.user,users title{text-align: center;font-size: 42px;}
+.dad{display: flex;justify-content: space-around;border: 3px solid plum;padding: 20px;align-items: center;margin: 20px 20px 20px 20px;}
+section user title{align-items: center;}
+.user title,dad{width: 40%;padding: 40px;}
+
+.mini{text-align: center;margin-top: 150px;}
+.mini img{width: 550px;}
+.mini,h1{font-size: 60px;}
+.flex{display: flex;justify-content: space-between;margin-top: 50px;justify-content: space-around; align-items: center;}
+.flex,div,legend{margin-top: 70px;font-size: 18px;}
+.end{color: #4E47FF; text-align: center;margin: 300px;}
+.cini{justify-content: space-around;gap: 30px;}
