@@ -19,7 +19,11 @@ justify-content: space-between;}
 .bg-img{width: 950px;height: 452px;}
 .title{font-size: 50px;}
 /*class ali*/
-.mus{font-size: 42px;color: black;font-weight: bold;}
-.tak{font-size: 24px;color: gray;}
 
-.ali{max-width: 880px;padding: 20px;}
+.banner{display: flex;justify-content: space-between;margin: 814px 150px100px 150px;
+align-content: center;
+padding: 300px;}
+.ali,mus,tak{max-width: 517px;height: 203px;}
+.mus{font-size: 42px;color: black;}
+.tak{font-size: 24px;color: gray;}
+.img{width: 400px;height: 300px;}
