@@ -16,5 +16,10 @@ border-color: #4E47FF;}
 .bap1{display: flex;
 justify-content: space-between;}
 .mir{padding: 800px 630pxpx;text-align: center;line-break: auto;color: black;}
-.bg-img{width: 950px;height: 252px;}
+.bg-img{width: 950px;height: 452px;}
 .title{font-size: 50px;}
+/*class ali*/
+.mus{font-size: 42px;color: black;font-weight: bold;}
+.tak{font-size: 24px;color: gray;}
+
+.ali{max-width: 880px;padding: 20px;}
