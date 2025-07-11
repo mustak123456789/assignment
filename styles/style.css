@@ -27,3 +27,19 @@ padding: 300px;}
 .mus{font-size: 42px;color: black;}
 .tak{font-size: 24px;color: gray;}
 .img{width: 400px;height: 300px;}
+/*section*/
+.cat{display: flex;}
+
+/*section tag*/
+.inline{display: flex;justify-content: space-around;gap: 5px;}
+.dt{font-size: 80px;}
+.ht{font-size: 38px;margin-left: 400px;}
+.sobuj,ht{align-items: end;background-color: rgb(233, 224, 224);padding: 50px; border-radius: 40px;}
+
+.items{max-width: 1140px;margin: 0 auto; padding: 130px 150px;
+background-color:#D6DDED;border-radius: 50px;}
+.container{border-radius: 10px;padding: 130px 150px;text-align: center;margin-top: 90px;border-radius: 20px;}
+.div{display: flex;justify-content: space-around;}
+.u{font-size: 38px;color: #4E47FF;}
+.to{font-size: 80px;color: #4E47FF;}
+.me{font-size: 20px;color: darkgray;}
